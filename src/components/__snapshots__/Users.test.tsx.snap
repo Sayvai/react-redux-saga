@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Users/> should render only 5 users from the list 1`] = `
+<div
+  data-testid="users-wrapper"
+>
+  <h1>
+    List of users (max limit: 
+    5
+    ):
+  </h1>
+  <ul
+    aria-label="users list"
+    class="sc-bcXHqe ctVCar"
+    data-testid="users-list"
+  >
+    <li
+      aria-label="Lionel Messi"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Lionel Messi
+    </li>
+    <li
+      aria-label="Cristiano Ronaldo"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Cristiano Ronaldo
+    </li>
+    <li
+      aria-label="Thierry Henry"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Thierry Henry
+    </li>
+    <li
+      aria-label="Martin Ødegaard"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Martin Ødegaard
+    </li>
+    <li
+      aria-label="Tony Adams"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Tony Adams
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Users/> should render the full list of available users 1`] = `
+<div
+  data-testid="users-wrapper"
+>
+  <h1>
+    List of users (max limit: 
+    10
+    ):
+  </h1>
+  <ul
+    aria-label="users list"
+    class="sc-bcXHqe ctVCar"
+    data-testid="users-list"
+  >
+    <li
+      aria-label="Lionel Messi"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Lionel Messi
+    </li>
+    <li
+      aria-label="Cristiano Ronaldo"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Cristiano Ronaldo
+    </li>
+    <li
+      aria-label="Thierry Henry"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Thierry Henry
+    </li>
+    <li
+      aria-label="Martin Ødegaard"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Martin Ødegaard
+    </li>
+    <li
+      aria-label="Tony Adams"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Tony Adams
+    </li>
+    <li
+      aria-label="Cesc Fabregas"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Cesc Fabregas
+    </li>
+    <li
+      aria-label="Kylian Mbappe"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Kylian Mbappe
+    </li>
+    <li
+      aria-label="Harry Kane"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Harry Kane
+    </li>
+    <li
+      aria-label="Kevin De Bruyne"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Kevin De Bruyne
+    </li>
+    <li
+      aria-label="Mohammed Salah"
+      class="sc-gswNZR fkIaOi"
+      data-testid="user"
+    >
+      Mohammed Salah
+    </li>
+  </ul>
+</div>
+`;
